@@ -1,0 +1,16 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Wed Feb  7 05:31:37 2024 
+Best design point: 1
+Design specs: 
+	ece483_sp23_tb_mp1_1	corner	Nominal - 
+	A0		5.012	Yes
+	w3dB		60.49M	Yes
+	VOUT		907.7m	Yes
+Design parameters: 
+
+ExplorerRun.0
+Number of points completed: 1
+Number of simulation errors: 0
+ExplorerRun.0 completed. 
+Current time: Wed Feb  7 05:31:46 2024 
