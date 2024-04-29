@@ -1,0 +1,34 @@
+Starting Single Run, Sweeps and Corners...
+
+Current time: Sun Apr 28 22:34:23 2024 
+Best design point: 1
+Design specs: 
+	ece483_sp24_ldo_model_1	corner	Nominal - 
+	Phase Margin		37.83
+	Gain Margin		51.8
+	I_load		1.197m	Yes
+	quiescent		718.5u	No
+	IDC("/net8")		Error	No
+	IDC("/net24")		Error	No
+	IDC("/BN1")		Error	No
+	IDC("/I4/N3/D")		Error	No
+	IDC("/I4/N2/D")		Error	No
+	IDC("/I4/N7/D")		Error	No
+	IDC("/I4/P1/S")		Error	No
+	IDC("/I4/P8/S")		Error	No
+	res_i		Error	No
+	IDC("/I4/I27/PLUS")		Error	No
+	IDC("/I4/P12/G")		Error	No
+	IDC("/I4/P8/G")		Error	No
+	IDC("/I4/P7/G")		Error	No
+	IDC("/I4/P1/G")		Error	No
+	IDC("/I4/P11/G")		Error	No
+	IDC("/I4/R4/MINUS")		Error	No
+	IDC("/I4/P11/S")		Error	No
+Design parameters: 
+
+ExplorerRun.0
+Number of points completed: 1
+Number of simulation errors: 17
+ExplorerRun.0 completed. 
+Current time: Sun Apr 28 22:34:35 2024 
